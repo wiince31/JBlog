@@ -148,7 +148,7 @@ textarea {
  -webkit-appearance:none
 }
 body {
- background:#f44ec5;
+ background:#F675DE;
  margin:0px
 }
 .bisey {
@@ -183,7 +183,7 @@ body {
  width:800px
 }
 .resim {
- margin-top:30px;
+ margin-top:20px;
  width:170px;
  height:170px;
  float:left;
@@ -197,17 +197,17 @@ body {
  animation-fill-mode:forwards
 }
 .resim img {
- border-radius:90px;
+ border-radius:20px;
  width:300px;
- height:300px
+ height:200px
 }
 .aciklamalar {
  font-family:Lobster,cursive;
- margin-left:50;
+ margin-left:150px;
  float:left;
  font-size:20px;
  margin-top:25px;
- color:rgba(52,152,219,0.8);
+ color:rgba(234, 109, 245, 0.8);
  opacity:0;
  animation-delay:1s;
  animation-name:baslik;
@@ -406,7 +406,7 @@ body {
  height:20px;
  margin:5px;
  list-style:circle;
- color:#3498db
+ color:#F675DE
 }
 .widget li a {
  text-decoration:none;
@@ -486,7 +486,7 @@ ul.menuAna a {
  padding-right:15px;
  padding-bottom:5px;
  padding-top:5px;
- color:#3498db;
+ color:#F675DE;
  float:left;
  font-family:Alegreya Sans SC,sans-serif;
  text-decoration:none;
@@ -542,7 +542,7 @@ ul.menuAna a:hover {
 .copy {
  font-size:18px;
  margin-top:20px;
- color:#3498db;
+ color:#F675DE;
  animation-name:baslik;
  animation-duration:1.2s;
  animation-fill-mode:forwards;
@@ -641,7 +641,7 @@ ul.menuAna a:hover {
  font-family:Alegreya Sans SC,sans-serif
 }
 .urunAdi a {
- color:#3498db;
+ color:#F675DE;
  transition-property:color;
  transition-duration:.5s;
  transition-delay:0s
@@ -657,7 +657,7 @@ ul.menuAna a:hover {
  margin-left:30px;
  display:inline-block;
  padding:5px;
- border:2px solid #3498db;
+ border:2px solid #F675DE;
  border-radius:3px;
  text-decoration:none;
  transition-property:background-color;
@@ -666,7 +666,7 @@ ul.menuAna a:hover {
 }
 .fiyat a:hover {
  cursor:pointer;
- background-color:#3498db;
+ background-color:#F675DE;
  color:#ecf0f1
 }
 .aciklamaUrun {
@@ -702,7 +702,7 @@ ul.menuAna a:hover {
 .hakkimda h2 {
  padding-top:20px;
  padding-left:20px;
- color:#3498db;
+ color:#F675DE;
  font-family:Lobster,cursive
 }
 .hakkimda p {
@@ -717,7 +717,7 @@ ul.menuAna a:hover {
 }
 .iletisimBilgileri h3 {
  padding-left:10px;
- color:#3498db;
+ color:#F675DE;
  font-family:Lobster,cursive
 }
 .iletisimBilgileri p {
@@ -750,7 +750,7 @@ ul.menuAna a:hover {
 }
 .sosyal .fa {
  margin-top:10px !important;
- color:#3498db !important;
+ color:#F675DE !important;
  text-shadow:1px 1px 1px rgba(81,81,81,0.3) !important
 }
 .sosyal .fa:hover {
@@ -790,7 +790,7 @@ ul.menu li {
 ul.menu li a {
  padding:10px;
  border-radius:6px;
- color:#3498db;
+ color:#F675DE;
  float:left;
  text-decoration:none;
  font-family:Alegreya Sans SC,sans-serif
@@ -798,7 +798,7 @@ ul.menu li a {
 ul.menu li a:hover {
  padding:10px;
  border-radius:3px;
- background-color:#3498db;
+ background-color:#F675DE;
  text-shadow:1px 1px 5px #000;
  color:#ecf0f1;
  box-shadow:inset 0px 0px 10px 2px rgba(81,81,81,0.6);
@@ -861,7 +861,7 @@ ul.menu li a:hover {
  ul.menu li a {
   padding:10px;
   border-radius:6px;
-  color:#3498db;
+  color:#F675DE;
   width:140px;
   text-decoration:none;
   font-family:Alegreya Sans SC,sans-serif
@@ -869,7 +869,7 @@ ul.menu li a:hover {
  ul.menu li a:hover {
   padding:10px;
   border-radius:3px;
-  background-color:#3498db;
+  background-color:#F675DE;
   text-shadow:1px 1px 5px #000;
   color:#ecf0f1;
   box-shadow:inset 0px 0px 10px 2px rgba(81,81,81,0.6);
@@ -895,7 +895,7 @@ ul.menu li a:hover {
   margin-right:auto
  }
  .aciklamalar {
-  text-align:center;
+  text-align:right;
   float:none;
   margin-left:auto;
   margin-right:auto;
